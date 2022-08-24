@@ -1,0 +1,23 @@
+{
+  "name": "academy",
+  "version": "1.0.0",
+  "description": "Proyect Academy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Der/Academy.git"
+  },
+  "author": "I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Der/Academy/issues"
+  },
+  "homepage": "https://github.com/The-Der/Academy#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  }
+}
